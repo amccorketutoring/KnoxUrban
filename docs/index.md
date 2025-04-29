@@ -8,7 +8,7 @@
 
 
 -   Free software: MIT License
--   Documentation: <https://amccorketutoring@gmail.com.github.io/knoxurban>
+-   Documentation: <https://amccorketutoring.github.io/knoxurban>
     
 
 ## Features
