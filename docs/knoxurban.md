@@ -1,4 +1,0 @@
-
-# knoxurban module
-
-::: knoxurban.knoxurban
